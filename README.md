@@ -1,12 +1,14 @@
 # GNSS-Algorithms
-List of GNSS Algorithms and Source Code
+This is a GNSS School whose main purpose is to provide fundamental information regarding GNSS algorithms and satellite positioning. 
 
 ## Contents
-- [GNSS Textbooks](#examples-of-gnss-textbooks)
-- [List of GNSS Open Source Software](#List-of-gnss-open-source-software)
-- [Data and Products Archives](#data-and-products-archives)
+
+- [Characterization of GNSS Signals](#Characterization-of-gnss-signals)
+- [GNSS Open Source Software](#List-of-gnss-open-source-software)
+- [GNSS and Geodesy Datasets ](#gnss-and-geodesy-datasets)
 - [Current Satellite Systems](#current-satellite-systems)
 - [GNSS Tutorials](#gnss-tutorials)
+- [Using Machine Learning in GNSS](#gnss-tutorials)
 
 
 
