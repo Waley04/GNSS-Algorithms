@@ -19,6 +19,7 @@ This is a GNSS School whose main purpose is to provide fundamental information r
 - [iGMAS](http://igmas.users.sgg.whu.edu.cn/products) - iGMAS Innovation Application Center
 - [GSSC](https://gssc.esa.int/) - ESA GNSS Science Support Centre
 - [Geoscience Australia](https://www.ga.gov.au/home) - Geoscience Australia, a public organization
+- [USGS](https://earthexplorer.usgs.gov/) - US Department of the Interior 
 - [BKG](https://igs.bkg.bund.de/) - Federal Agency for Cartography and Geodesy 
 
 
