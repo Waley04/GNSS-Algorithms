@@ -1,4 +1,4 @@
-![gnssAlgorithms](https://user-images.githubusercontent.com/101952777/178213356-a855f55b-5f52-4a86-a3ad-2ae0da48edeb.jpg =250x250)
+![gnssAlgorithms](https://user-images.githubusercontent.com/101952777/178213356-a855f55b-5f52-4a86-a3ad-2ae0da48edeb.jpg)
 
 # GNSS-Algorithms
 
