@@ -18,8 +18,25 @@ This is a GNSS School whose main purpose is to provide fundamental information r
 - [WHU](http://www.igs.gnsswhu.cn/) - Wuhan University Data Center
 - [iGMAS](http://igmas.users.sgg.whu.edu.cn/products) - iGMAS Innovation Application Center
 - [GSSC](https://gssc.esa.int/) - ESA GNSS Science Support Centre
+- [Australian Space Weather](https://www.sws.bom.gov.au/World_Data_Centre/1/1) - Australian Space Weather Services
 - [Geoscience Australia](https://www.ga.gov.au/home) - Geoscience Australia, a public organization
 - [BKG](https://igs.bkg.bund.de/) - Federal Agency for Cartography and Geodesy 
 - [USGS](https://earthexplorer.usgs.gov/) - US Department of the Interior 
+- [BIGF](https://www.bigf.ac.uk/data_access.html) - NERC British Isles continuous GNSS Facility
+- [NGS](https://geodesy.noaa.gov/CORS/data.shtml) - National Geodetic Survey
+- [EUREF](http://www.epncb.oma.be/) - EUREF Permanent GNSS Network
+- [NCEDC](https://ncedc.org/bard.overview.html) or (https://ncedc.org/gps/) - Northern California Earthquake Data Center. 
+- [GOP](https://www.sws.bom.gov.au/World_Data_Centre/1/1) - GOP data center for near real-time GPS analysis (Now part of EUREF)
+- [ICGC](https://www.icgc.cat/en/Public-Administration-and-Enterprises/Services/Positioning/GNSS-stations/Post-processing-RINEX-files)
+- [CHAIN](https://geodesy.noaa.gov/CORS/data.shtml) - Canadian High Arctic Ionospheric Network
+- [GeoDAF](http://geodaf.mt.asi.it/index.html) - Geodetic Data Archiving Facility
+- [ROB](http://gnss.be/ROB_Network/data.php) - Royal Observatory of Belgium GNSS Research Group
+- [AFREF](http://afrefdata.org/) - The African Geodetic Reference Frame
+- [GeoNet](https://www.geonet.org.nz/data/types/geodetic) - GeoNet Geological hazard information for New Zealand
+- [IBGE](http://geoftp.ibge.gov.br/informacoes_sobre_posicionamento_geodesico/rbmc/dados/) - Instituto Brasileiro de Geografia e Estatistica
+- [PANGA](http://www.geodesy.cwu.edu/pub/data/) - Pacific Northwest Geodetic Array 
+- [DPGA](http://gnss1.tudelft.nl/dpga/rinex/) - Dutch Permanent GNSS Array
+- [Arecibo Observatory](http://www.naic.edu/aisr/GPSTEC/Archive) - Arecibo Observatory
 
+_____________________________________________++++++++++++++++++++++++++_________________________________________________________
 
