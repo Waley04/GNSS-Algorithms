@@ -1,5 +1,5 @@
 
-<img src='[figure/rstudio.png](https://user-images.githubusercontent.com/101952777/178213356-a855f55b-5f52-4a86-a3ad-2ae0da48edeb.jpg)' width='25'>
+<img src='[figure/rstudio.png](https://user-images.githubusercontent.com/101952777/178213356-a855f55b-5f52-4a86-a3ad-2ae0da48edeb.jpg)' width='250'>
 # GNSS-Algorithms
 
 
