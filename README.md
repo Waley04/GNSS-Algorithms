@@ -1,4 +1,4 @@
-![gnssAlgorithms](C:\Users\ABD\Desktop\Help\gitRepository)
+![gnssAlgorithms!](C:\Users\ABD\Desktop\Help\gitRepository\gnssAlgorithms.jpg)
 
 # GNSS-Algorithms
 This is a GNSS School whose main purpose is to provide fundamental information regarding GNSS algorithms and satellite positioning. 
