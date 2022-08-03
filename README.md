@@ -49,4 +49,4 @@ This is a GNSS School whose main purpose is to provide fundamental information r
 
 - [GNSS Tutorials](#gnss-tutorials)
 - VMF dataset:
-  Refer to **miscellaneousGnssIssues(https://github.com/Waley04/miscellaneousGnssIssues)** repository
+  Refer to [**miscellaneousGnssIssues**](https://github.com/Waley04/miscellaneousGnssIssues) repository
