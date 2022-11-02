@@ -16,10 +16,10 @@ This is a GNSS School whose main purpose is to provide fundamental information r
 - [Using Machine Learning in GNSS](#gnss-tutorials)
 
 
-## GNSS and Geodesy Datasets
-- [UNAVCO](https://www.unavco.org/data/data.html) - UNAVCO Geodetic Data
-- [CDDIS](https://cddis.nasa.gov/) - NASA's Archive of Space Geodesy Data
-     ++++ >>>> [REPRO3](https://cddis.nasa.gov/archive/gnss/products/2050/repro3/)
+## GNSS and Geodesy Datasets <br />
+- [UNAVCO](https://www.unavco.org/data/data.html) - UNAVCO Geodetic Data <br />
+- [CDDIS](https://cddis.nasa.gov/) - NASA's Archive of Space Geodesy Data <br />
+     ++++ >>>> [REPRO3](https://cddis.nasa.gov/archive/gnss/products/2050/repro3/) <br />
 - [TUG](https://repository.tugraz.at/records/ddmkp-3bc83/) - Graz University of Technology (TUG) repro3 products
 - [WHU](http://www.igs.gnsswhu.cn/) - Wuhan University Data Center
 - [iGMAS](http://igmas.users.sgg.whu.edu.cn/products) - iGMAS Innovation Application Center
